@@ -1,0 +1,11 @@
+{
+  "name": "temp-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/longuid/temp-store",
+  "author": "Yinxiong <languid.jeremy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow": "^0.2.3"
+  }
+}
